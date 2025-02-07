@@ -1,5 +1,4 @@
 
-//const { default: Shery } = require("sheryjs");
 
 
 Shery.mouseFollower()
